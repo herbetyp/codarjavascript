@@ -1,7 +1,7 @@
 ># Curso de JavaScript 
 
-- [ ] Fundamentos 
-- [ ] Estruturas de controle
+- [x] Fundamentos 
+- [x] Estruturas de controle
 - [ ] Função
 - [ ] Objeto
 - [ ] Array
