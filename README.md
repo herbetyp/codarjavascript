@@ -2,8 +2,8 @@
 
 - [x] Fundamentos 
 - [x] Estruturas de controle
-- [ ] Função
-- [ ] Objeto
+- [x] Função
+- [x] Objeto
 - [ ] Array
 
 ------------------------------
