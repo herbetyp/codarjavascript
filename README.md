@@ -4,6 +4,6 @@
 - [x] Estruturas de controle
 - [x] Função
 - [x] Objeto
-- [ ] Array
-
+- [X] Array
+- [ ] Node
 ------------------------------
